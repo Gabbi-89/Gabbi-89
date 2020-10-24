@@ -1,8 +1,12 @@
 ### Hi, I'm Gabriella 👋👩‍💻
 I’m currently studying to Front End developer @Technigo. 
+
 I'm happy, half nerdy, half social! Love solving problems, building relationships, structure and analyzes! 
+
 💻 I love CSS & React! Im am coding with HTML5, CSS, JavaScript and React.
+
 🎓 Do have a Master of Science in Business & Administration and a carreer within Logistics and Demand planning. 
+
 🚏 Live in Sweden & Austria.
 
 ### Find me around the web 🌍 
