@@ -11,6 +11,8 @@ I'm happy, half nerdy, half social! Love solving problems, building relationship
 
 ### Find me around the web 🌍 
 - <a href="https://www.linkedin.com/in/gabriella-bolin-b718544a/">LinkedIn</a>
+- <a href="http://gabriellabolin.se/">My portfolio</a>
+
 
 <!--
 **Gabbi-89/Gabbi-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
