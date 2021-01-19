@@ -1,13 +1,13 @@
 ### Hi, I'm Gabriella 👋👩‍💻
-I’m currently studying to Front End developer @Technigo. 
+I’m a Developer who attended @Technigo's Bootcamp in Front End Development 20/21. 
 
 I'm happy, half nerdy, half social! Love solving problems, building relationships, structure and analyzes! 
 
-💻 I love CSS & React! Im am coding with HTML5, CSS, JavaScript and React.
+💻 I love CSS & React! Im am coding with HTML5, CSS, JavaScript, React and Node.js.
 
-🎓 Do have a Master of Science in Business & Administration and a carreer within Logistics and Demand planning. 
+🎓 Do have a Master of Science in Business & Administration and a previous carreer within Logistics and Demand planning. 
 
-🚏 Live in Sweden & Austria.
+🚏 Live in Sweden.
 
 ### Find me around the web 🌍 
 - <a href="https://www.linkedin.com/in/gabriella-bolin-b718544a/">LinkedIn</a>
